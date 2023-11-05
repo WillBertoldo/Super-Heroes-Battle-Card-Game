@@ -285,3 +285,16 @@ Data architecture example:
       }
    }
 ]
+### Screenshots
+![image](https://github.com/WillBertoldo/Super-Heroes-Battle-Card-Game/assets/76237611/9c20eda2-1e5e-4e04-a584-78c4bf4bff41)
+![image](https://github.com/WillBertoldo/Super-Heroes-Battle-Card-Game/assets/76237611/5098573b-d0fb-40e2-bcb0-f0e2844d548a)
+![image](https://github.com/WillBertoldo/Super-Heroes-Battle-Card-Game/assets/76237611/ab05d018-6bdc-45fc-8631-8592f23f296b)
+![image](https://github.com/WillBertoldo/Super-Heroes-Battle-Card-Game/assets/76237611/2cb7a962-5deb-4109-a245-a13818cd704e)
+![image](https://github.com/WillBertoldo/Super-Heroes-Battle-Card-Game/assets/76237611/3684647a-3f50-4dbe-84d5-c2cf64c957c3)
+![image](https://github.com/WillBertoldo/Super-Heroes-Battle-Card-Game/assets/76237611/1538976f-7e30-4b5f-a203-76d4906a6433)
+
+
+
+
+
+
