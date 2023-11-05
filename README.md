@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### API Data
 This project needs an API to work.
-Data architecture example:
+Data architecture example:<br>
 [
    {
       "id":1,
