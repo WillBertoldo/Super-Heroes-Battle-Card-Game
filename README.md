@@ -72,6 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### API Data
 This project needs an API to work.<br>
 Data architecture example:<br>
+<br>
 [
    {
       "id":1,
@@ -285,7 +286,9 @@ Data architecture example:<br>
       }
    }
 ]
+<br>
 ### Screenshots
+<br>
 ![image](https://github.com/WillBertoldo/Super-Heroes-Battle-Card-Game/assets/76237611/9c20eda2-1e5e-4e04-a584-78c4bf4bff41)
 ![image](https://github.com/WillBertoldo/Super-Heroes-Battle-Card-Game/assets/76237611/5098573b-d0fb-40e2-bcb0-f0e2844d548a)
 ![image](https://github.com/WillBertoldo/Super-Heroes-Battle-Card-Game/assets/76237611/ab05d018-6bdc-45fc-8631-8592f23f296b)
